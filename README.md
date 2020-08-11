@@ -22,3 +22,6 @@
 ![alt text](https://github.com/GauravRana/ToDo_App/blob/master/screenshots/images/Screenshot_2020-08-11-19-15-44-70.jpg)
 ![alt text](https://github.com/GauravRana/ToDo_App/blob/master/screenshots/images/Screenshot_2020-08-11-19-15-52-39.jpg)
 ![alt text](https://github.com/GauravRana/ToDo_App/blob/master/screenshots/images/Screenshot_2020-08-11-19-21-33-60.jpg)
+
+### Video
+![alt text](https://giphy.com/gifs/fveLu3mCy4kTEqzkHJ)
