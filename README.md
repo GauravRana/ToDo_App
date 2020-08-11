@@ -16,3 +16,6 @@
 - Create Todo
 - Delete existing Todo
 - View/Update Todo
+
+### Screenshots
+![alt text](https://github.com/GauravRana/ToDo_App/blob/master/screenshots/images/Screenshot_2020-08-11-19-15-37-50.jpg)
