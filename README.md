@@ -2,8 +2,7 @@
 > A To-Do application written in kotlin using Android Architectural components
 
 ## What's new?  
-**Room + Coroutines** - Upgraded Room to v2.1. Room's DAO methods can now be suspend functions.  
-**Koin Integration** - A new branch [Koin in Action] created to demonstrate [Koin](https://insert-koin.io/) dependency injection.
+**Room + Coroutines** - Upgraded Room to v2.1. Room's DAO methods can now be suspend functions.
 
  - **Kotlin** - as a programming language.
  - **ViewModel** - Used to manage UI related data, Survives config changes.
@@ -17,4 +16,3 @@
 - Create Todo
 - Delete existing Todo
 - View/Update Todo
-- Search Todo list
