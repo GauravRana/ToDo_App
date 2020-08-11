@@ -2,7 +2,7 @@
 > A To-Do application written in kotlin using Android Architectural components
 
 ## What's new?  
-**Room + Coroutines** - Upgraded Room to v2.1. Room's DAO methods can now be suspend functions.
+**Room + Coroutines** - Room's DAO methods can now be suspend functions.
 
  - **Kotlin** - as a programming language.
  - **ViewModel** - Used to manage UI related data, Survives config changes.
